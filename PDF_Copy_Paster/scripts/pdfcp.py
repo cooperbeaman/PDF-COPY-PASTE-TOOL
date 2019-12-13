@@ -16,6 +16,6 @@ from my_module.functions import *
 # Runs windows clipboard monitoring and updating function "pdfcp"
 # to remove line breaks from copied pdf text and optionally enclose
 # copied pdf text in quotes or append a carriage return to the end of it
-pdfcp()
+run()
 
 
