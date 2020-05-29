@@ -1,4 +1,5 @@
-# cogs18pdfcpfinalproject
+# PDFCP Information
+
 ### WARNING: SCRIPT ONLY RUNS ON WINDOWS OPERATING SYSTEM 
 Before running pdfcp script through windows command prompt: 
 First ensure the latest version of python is installed 
@@ -6,8 +7,7 @@ Install clipboard module (run "pip install clipboard" command from command promp
 Only run script when copying quotes from pdfs (tested and confirmed working with Adobe Acrobat and Adobe Reader but should modify text copied from any pdf viewer).
 Terminate script first before copying text from anywhere other than pdfs
 
-Example usage:
-
+### Example usage:
 1. open command prompt in directory of "C:...\PDF_Copy_Paster\scripts"
 2. type the command "python pdfcp.py" or "python3 pdfcp.py" and hit <Enter>
 3. follow the promts to append quotes or a carraige return (<y> + <enter> = yes; <Enter> = no)
